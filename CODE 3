@@ -15,3 +15,10 @@ System.out.println("Sorry you are not eligible for voting");
 }
 }
 }
+Output
+please enter your age
+18
+congratulation you are eligible for voting
+please enter your age
+12
+Sorry you are not eligible for voting
