@@ -12,3 +12,13 @@ void mul()
 
 {System.out.println("a*b");}
 }
+class maths
+{
+public static void main(String args[]){
+multiply s=new multiply();
+s.add();
+s.mul();
+
+}}
+
+
