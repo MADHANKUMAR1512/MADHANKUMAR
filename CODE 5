@@ -12,6 +12,10 @@ number = number/10;
 System.out.println("The reverse of the given number is: " + reverse);  
 }  
 }  
+Output
+
+The reverse of the given number is: 54321
+
 
 
 
